@@ -1,0 +1,13 @@
+HostName=nollis1-iothub.azure-devices.net;
+DeviceId=dev1;
+SharedAccessKey=hrFrOTdYP/uimcGynCCZowwFByyqCt5isTLy/yd6juo=
+
+
+Endpoint=sb://ihsuprodamres021dednamespace.servicebus.windows.net/;
+SharedAccessKeyName=iothubowner;
+SharedAccessKey=A05+2M2H6DCsVR2UDPMTJEyVtxE9Pi0rA+vqTbzrFBs=;
+EntityPath=iothub-ehub-nollis1-io-23588002-c7d649ded5
+
+HostName=nollis1-iothub.azure-devices.net;
+SharedAccessKeyName=iothubowner;
+SharedAccessKey=A05+2M2H6DCsVR2UDPMTJEyVtxE9Pi0rA+vqTbzrFBs=
